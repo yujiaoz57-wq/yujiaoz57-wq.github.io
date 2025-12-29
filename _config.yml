@@ -22,15 +22,22 @@ repository               : "yujiaoz57-wq.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : ""/images/profile.png""
-  name             : "郑玉姣"
-  pronouns         : # example: "she/her"  
-  bio              : "肿瘤免疫专业学生"
-  location         : "Peking University"
-  employer         : "Peking University"
-  uri              : # URL
-  email            : "yujiaoz57@gmail.com" 
+  name:   "郑玉姣"  # 注意：冒号后面必须有一个空格
+  avatar: "/images/profile.png" # 确保你上传了 profile.png
+  bio:    "Graduate Student in Tumor Immunology"
+  location: "China"
+  email:  "yujiaoz57@gmail.com"
+  uri:    ""
+  bitbucket: #
+  codepen: #
+  dribbble: #
+  flickr: #
+  facebook: #
+  foursquare: #
+  github: "yujiaoz57-wq" # 只填用户名！
+  
+  
+ 
 
   # Academic websites
   academia         : # URL
