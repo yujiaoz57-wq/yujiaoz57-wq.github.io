@@ -1,64 +1,41 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "个人简历 (CV)"
+excerpt: "My CV"
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /cv.html
 ---
 
-{% include base_path %}
+## 🎓 教育经历 (Education)
+* **硕士研究生**, 肿瘤免疫学, [北京大学], 2024 - 至今
+* **学士**, [临床医学], [湖南师范大学], 2019 - 2024
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## 🔬 研究经历 (Research Experience)
+**黑色素瘤 PD-1 免疫治疗响应预测研究**
+* *2025.10 - 至今*
+* 独立构建了基于 LASSO 回归的 11-Gene Signature 风险预测模型。
+* 处理并分析了 GEO/TCGA 转录组数据，进行差异表达与生存分析。
+* 开发 Coze 智能体实现移动端临床辅助决策。
+**CAR-T细胞疗法研究**
+* 目前仍在研发中
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 🛠️ 核心技能 (Skills)
+* **生物信息学**:
+  * 语言: Python (Pandas, Scikit-learn), R (ggplot2, limma), Linux/Shell
+  * 流程: RNA-seq data processing, Survival Analysis, Machine Learning
+* **实验技能**:
+  * 细胞培养 (Tumor cell lines), Flow Cytometry, PCR, Western Blot
+* **工具**:
+  * LaTeX, Streamlit, Git/GitHub
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+
+---
+
+> *注：完整版 PDF 简历正在更新中，敬请期待。*
