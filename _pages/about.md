@@ -18,12 +18,9 @@ redirect_from:
 
 为了方便临床使用，我将其开发为 **AI 智能体**。你可以通过下方链接直接体验我的研究成果：
 
-<div style="text-align: center; margin: 20px 0;">
-  <a href="[https://www.coze.cn/s/nmYzCKq7zJ8/]" 
-     style="background-color: #0366d6; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold;">
-     🤖 点击体验 PD-1 预测智能体
-  </a>
-</div>
+### 🔗 智能体体验链接
+
+> **[👉 点击这里跳转：PD-1 预测智能体 (Coze)](https://www.coze.cn/s/nmYzCKq7zJ8/)**
 
 **主要功能：**
 * 基于 11-Gene Signature 计算风险评分
